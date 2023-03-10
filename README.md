@@ -1,3 +1,4 @@
+![logo](https://github.com/Techanmolporwal/techanmolporwal/blob/main/2.png)
 <h1 align="center">Hi 👋, I'm Anmol Porwal</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 <img align="right" alt="coding" width="400px" scr="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
